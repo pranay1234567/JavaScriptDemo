@@ -3,10 +3,10 @@ This is my first git file..!
 <html>
     <head>
         <title> Import example</title>
-     
+         <h1>Welcome to Sass World!</h1>
     </head>
 
     <body>
-        <h1>Welcome to Sass World!</h1>
+        
     </body>
 </html>
