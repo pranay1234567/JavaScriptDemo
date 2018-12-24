@@ -1,0 +1,21 @@
+ git config --global user.name "pranay kalbandhe" //create
+
+
+git config user.name  // checks first git
+
+
+git config --global user.email "pranay_kalbandhe@persistent.com"
+
+git config user.email // checks what you entered
+
+
+git init   //start git
+
+git add file1.txt    // add file into staging area
+
+git status   // check status
+
+
+git commit -m "File1 is created..." // m is message & final commit that can be seen by every1
+
+git diff   // checkas difference old and new things
